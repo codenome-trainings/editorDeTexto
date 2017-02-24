@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/maquinaDeEscrever.dir/main.cpp.o CMakeFiles/maquinaDeEscrever.dir/programa.cpp.o CMakeFiles/maquinaDeEscrever.dir/getch.cpp.o  -o maquinaDeEscrever 

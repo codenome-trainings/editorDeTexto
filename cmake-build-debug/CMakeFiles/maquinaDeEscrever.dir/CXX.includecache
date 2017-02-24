@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/thiago/Desktop/maquinaDeEscrever/getch.cpp
+unistd.h
+-
+termios.h
+-
+stdio.h
+-
+
+/home/thiago/Desktop/maquinaDeEscrever/getch.h
+
+/home/thiago/Desktop/maquinaDeEscrever/main.cpp
+iostream
+-
+programa.h
+/home/thiago/Desktop/maquinaDeEscrever/programa.h
+
+/home/thiago/Desktop/maquinaDeEscrever/programa.cpp
+iostream
+-
+stdio_ext.h
+-
+getch.h
+/home/thiago/Desktop/maquinaDeEscrever/getch.h
+programa.h
+/home/thiago/Desktop/maquinaDeEscrever/programa.h
+
+/home/thiago/Desktop/maquinaDeEscrever/programa.h
+
